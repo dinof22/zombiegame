@@ -110,7 +110,7 @@ if (choice === "attack") {
 
     window.alert("you grab a fallen brick and charge the creature with all your might! you slay that zombie! Success! You loot the store for goods and find a switchblade, a pack of batteries, and three cans of Beanie Weenies.");
     
-//does my computer work yet???
+
     outcome = "win";
     
  
